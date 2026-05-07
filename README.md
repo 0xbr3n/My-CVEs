@@ -2,8 +2,8 @@
 
 > Vulnerability research, CVE advisories, and Proof-of-Concept exploits by **Brendon Teo** — Senior Penetration Tester, Singapore.
 
-[![Author](https://img.shields.io/badge/Researcher-Brendon_Teo_(0xbr3n)-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://github.com/brendontkl)
-[![My Website](https://img.shields.io/badge/🌐_Portfolio-0xbren.com-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://brendontkl.github.io)
+[![My Website](https://img.shields.io/badge/🌐_Portfolio-0xbren.com-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://0xbr3n.github.io)
+
 [![CVEs](https://img.shields.io/badge/CVEs_Published-1-ff4757?style=for-the-badge&labelColor=0d1117)](#cve-index)
 [![NVD](https://img.shields.io/badge/NVD_Verified-✓-00ff88?style=for-the-badge&labelColor=0d1117)](https://nvd.nist.gov/vuln/search/results?query=brendon+teo)
 [![Disclosure](https://img.shields.io/badge/Disclosure-Responsible-00d4ff?style=for-the-badge&labelColor=0d1117)](#responsible-disclosure-policy)
